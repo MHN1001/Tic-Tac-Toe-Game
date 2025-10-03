@@ -22,9 +22,10 @@ This project demonstrates basic game logic, UI design, and event handling in Win
 ---
 
 ## 🖼️ Screenshots
-- <img width="600" height="300" alt="11" src="https://github.com/user-attachments/assets/4e4f4ff4-7d11-448c-8c88-f4299c447aa2" />
 
-- <img width="900" height="575" alt="2" src="https://github.com/user-attachments/assets/e1d1de89-75d4-488f-8511-f9c5f9fa3905" />
+<img width="448" height="287,5" alt="2" src="https://github.com/user-attachments/assets/956d66d8-07ef-4e03-aaa3-6298b28ba70e" />
+
+
 ---
 
    
